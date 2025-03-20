@@ -1,2 +1,2 @@
 # rep-teste-auth
-Rep de testes para autenticacao
+Rep de testes para autenticacoes DIO
